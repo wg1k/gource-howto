@@ -1,5 +1,5 @@
 {
-  "name": "cms-gource",
+  "name": "gource-howto",
   "version": "",
   "description": "Gource.io Visualization of Developer.CMS.gov Open Source repositories",
   "longDescription": "This repository contains configuration scripts, log files, and graphic assets used to generate a source code repository visualization showcasing development activity using Gource.",
@@ -17,7 +17,7 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/DSACMS/cms-gource",
+  "repositoryURL": "https://github.com/wg1k/gource-howto",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
   "homepageURL": "",
@@ -27,7 +27,7 @@
   "vcs": "git",
   "laborHours": 17740,
   "reuseFrequency": {
-    "forks": 1,
+    "forks": 0,
     "clones": 0
   },
   "platforms": [
@@ -39,9 +39,7 @@
     "data-visualization"
   ],
   "softwareType": "standalone/web",
-  "languages": [
-    "Shell"
-  ],
+  "languages": [],
   "maintenance": "internal",
   "contractNumber": [],
   "SBOM": "https://github.com/DSACMS/cms-gource/network/dependencies",
@@ -49,9 +47,9 @@
   "reusedCode": [],
   "partners": [],
   "date": {
-    "created": "2023-08-21T15:47:26Z",
-    "lastModified": "2025-11-13T21:43:13Z",
-    "metadataLastUpdated": "2025-12-01T01:01:01.476Z"
+    "created": "2024-12-25T20:40:28Z",
+    "lastModified": "2025-12-25T08:10:51Z",
+    "metadataLastUpdated": "2026-01-01T00:41:50.232Z"
   },
   "tags": [
     "repository",
